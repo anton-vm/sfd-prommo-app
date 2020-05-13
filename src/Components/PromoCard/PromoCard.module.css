@@ -1,0 +1,212 @@
+.card {
+    display: hidden;
+    min-height: 400px;
+    width: 700px;
+    position: fixed;
+    right: auto;
+    top: 20%;
+    z-index: -1;
+    border: 2px solid black;
+    background-color: gray;
+    opacity: 0;
+    transition: ease-in-out 0.3s;
+    opacity: 1;
+    display: block;
+    z-index: 3;
+}
+
+
+
+.close {
+    font-size: 30px;
+    color: green;
+    position: absolute;
+    top: 5px;
+    right: 20px;
+}
+
+
+.test {
+    color: red;
+    font-size: 24px;
+}
+
+.content {
+    display: flex;
+    width: 100%;
+    /* justify-content: space-around; */
+    /* align-items: flex-start; */
+}
+
+.left {
+    display: flex;
+    min-width: 30%;
+    flex-direction: column;
+    /* margin: 20px 10px 0 30px; */
+    align-items: center;
+    justify-content: center;
+    /* align-items: flex-start; */
+}
+
+.tradeMark {
+    margin-top: 20px;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.bigInfo {
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 35px;
+}
+.bigInfoChain {
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.period {
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+}
+
+.right {
+    display: flex;
+    max-width: 70%;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px 10px;
+
+}
+
+.tocenter {
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    margin-bottom: 15px;
+}
+
+.info {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.infoData {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.listItem {
+    text-align: left;
+    font-size: 13px;
+    line-height: 18px;
+    display: block;
+    margin: 0 10px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.listItemSku {
+    display: block;
+    width: 60%;
+    text-align: left;
+    font-size: 14px;
+    line-height: 20px;
+    display: block;
+    margin: 0px 10px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.dates {
+    font-size: 16px;
+    font-style: oblique;
+}
+
+.list {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.status {
+    font-size: 20px;
+    font-weight: 700;
+    font-style: oblique;
+    margin: 50px auto 0;
+}
+
+.listSKU {
+    width: 100%;
+    margin: 10px 0;
+}
+
+.btnCalculation {
+    height: 20px;
+    margin: 15px;
+    
+}
+
+.calculation {
+    visibility: hidden;
+    height: 0px;
+    opacity: 0;
+    width: 95%;
+    margin: 0 auto;
+    background-color: rgb(201, 192, 192);
+    transition: ease-in-out 0.7s;
+}
+
+.calculation__on {
+    visibility: visible;
+    min-height: 100px;
+    opacity: 1;
+}
+
+.chekList {
+    display: flex;
+    justify-content: space-between;
+}
+
+.checkList__form {
+
+    display: flex;
+align-items: center;
+}
+
+.checkList__checkbox {
+    width: 20px;
+    height: 20px;
+}
+
+.checkList__label {
+    text-align: left;
+    font-size: 12px;
+}
+
+/* .calc__item {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    z-index: 5;
+    top: 20%;
+    left: 30px;
+    background-color: skyblue;
+    width: 800px;
+}
+
+.calc__point {
+    width: auto
+} */
+
+.input {
+    width: 40px;
+}

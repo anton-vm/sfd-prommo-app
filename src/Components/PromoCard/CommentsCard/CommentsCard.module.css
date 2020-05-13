@@ -1,0 +1,32 @@
+.comments {
+    display: flex;
+    width: 300px;
+    height: 200px;
+    left: 20%;
+    top: 20%; 
+    position: absolute;
+    z-index: 4;
+    flex-direction: column;
+    border: 1px solid red;
+    background-color: silver;
+    justify-content: space-around;
+}
+
+.author {
+    display: block;
+    height: 30px;
+    margin: 5px 15px;
+}
+
+.infoText {
+    display: block;
+    height: 100px;
+    margin: 5px 15px;
+}
+
+.commentBlock {
+    display: block;
+    height: 100px;
+    width: 80%;
+}
+

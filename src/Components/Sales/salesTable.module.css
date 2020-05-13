@@ -1,0 +1,42 @@
+table.tableSales {
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color: #E2FEDF;
+    width: 100%;
+    text-align: center;
+  }
+  table.tableSales td, table.tableSales th {
+    border: 0px solid #24943A;
+    padding: 2px 1px;
+  }
+  table.tableSales tbody td {
+    font-size: 11px;
+  }
+
+  table.tableSales  tr:hover {
+    background: rgb(150, 179, 148) !important;
+  }
+  table.tableSales tr:nth-child(even) {
+    background: #AFF9AA;
+  }
+
+  table.tableSales thead {
+    background: #55AD2D;
+  }
+  table.tableSales thead th {
+    font-size: 13px;
+    font-weight: bold;
+    color: #F0F0F0;
+  }
+  table.tableSales tfoot td {
+    font-size: 13px;
+  }
+  table.tableSales tfoot .links {
+    text-align: right;
+  }
+  table.tableSales tfoot .links a{
+    display: inline-block;
+    background: #FFFFFF;
+    color: #24943A;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }

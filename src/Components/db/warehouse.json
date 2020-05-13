@@ -1,0 +1,3143 @@
+ [
+        {
+            "barCode": "05000157104601",
+            "name": "Heinz гірчиця сашет 10 мл",
+            "validPeriod": "12",
+            "BBDate": "01.09.2020",
+            "BBPercent": "32",
+            "quantity": "3800"
+        },
+        {
+            "barCode": "05000157104601",
+            "name": "Heinz гірчиця сашет 10 мл",
+            "validPeriod": "12",
+            "BBDate": "31.12.2020",
+            "BBPercent": "65",
+            "quantity": "4000"
+        },
+        {
+            "barCode": "345",
+            "name": "Шейкер для зміш. ол.олії",
+            "quantity": "8"
+        },
+        {
+            "barCode": "4601674008451",
+            "name": "Heinz кетчуп томатний гострий с/п 342г/12шт",
+            "validPeriod": "18",
+            "BBDate": "24.04.2021",
+            "BBPercent": "64",
+            "quantity": "2"
+        },
+        {
+            "barCode": "4601674008451",
+            "name": "Heinz кетчуп томатний гострий с/п 342г/12шт",
+            "validPeriod": "18",
+            "BBDate": "10.10.2021",
+            "BBPercent": "95",
+            "quantity": "3142"
+        },
+        {
+            "barCode": "4750022000811",
+            "name": "Spilva cоус із середземноморськими травами п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "28.05.2020",
+            "BBPercent": "5",
+            "quantity": "272"
+        },
+        {
+            "barCode": "4750022000811",
+            "name": "Spilva cоус із середземноморськими травами п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "26.06.2020",
+            "BBPercent": "13",
+            "quantity": "2510"
+        },
+        {
+            "barCode": "4750022000811",
+            "name": "Spilva cоус із середземноморськими травами п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "18.07.2020",
+            "BBPercent": "19",
+            "quantity": "1306"
+        },
+        {
+            "barCode": "4750022003805",
+            "name": "ЗАКРЫТО Spilva кетчуп з часником с/п 330 г/6шт",
+            "validPeriod": "24",
+            "BBDate": "28.08.2019",
+            "BBPercent": "-35",
+            "quantity": "22"
+        },
+        {
+            "barCode": "4750022003805",
+            "name": "ЗАКРЫТО Spilva кетчуп з часником с/п 330 г/6шт",
+            "validPeriod": "24",
+            "BBDate": "17.01.2020",
+            "BBPercent": "-15",
+            "quantity": "49"
+        },
+        {
+            "barCode": "4750022004802",
+            "name": "ЗАКРЫТО Spilva кетчуп пікантний  с/п 330 г/6шт",
+            "validPeriod": "24",
+            "BBDate": "06.09.2019",
+            "BBPercent": "-34",
+            "quantity": "28"
+        },
+        {
+            "barCode": "4750022004802",
+            "name": "ЗАКРЫТО Spilva кетчуп пікантний  с/п 330 г/6шт",
+            "validPeriod": "24",
+            "BBDate": "23.01.2020",
+            "BBPercent": "-15",
+            "quantity": "7"
+        },
+        {
+            "barCode": "4750022007803",
+            "name": "ЗАКРЫТО Spilva соус кисло-солодкий з чилі с/п 350г/6шт",
+            "validPeriod": "24",
+            "BBDate": "26.11.2020",
+            "BBPercent": "28",
+            "quantity": "20"
+        },
+        {
+            "barCode": "4750022016805",
+            "name": "ЗАКРЫТО Spilva кетчуп для дітей с/п 330 г/6шт",
+            "validPeriod": "24",
+            "BBDate": "21.11.2019",
+            "BBPercent": "-23",
+            "quantity": "6"
+        },
+        {
+            "barCode": "4750022056153",
+            "name": "Spilva реліш огірково-гірчичний, с/б 390г/10шт",
+            "validPeriod": "30",
+            "BBDate": "15.05.2022",
+            "BBPercent": "81",
+            "quantity": "467"
+        },
+        {
+            "barCode": "4750022085276",
+            "name": "ЗАКРЫТО Spilva соус з ананасами с/п 340г/6шт",
+            "validPeriod": "24",
+            "BBDate": "03.12.2020",
+            "BBPercent": "29",
+            "quantity": "171"
+        },
+        {
+            "barCode": "4750022090805",
+            "name": "ЗАКРЫТО Spilva соус солодкий з чилі с/п 340г/6шт",
+            "validPeriod": "24",
+            "BBDate": "03.12.2020",
+            "BBPercent": "29",
+            "quantity": "2"
+        },
+        {
+            "barCode": "4750022090805",
+            "name": "ЗАКРЫТО Spilva соус солодкий з чилі с/п 340г/6шт",
+            "validPeriod": "24",
+            "BBDate": "03.12.2020",
+            "BBPercent": "29",
+            "quantity": "376"
+        },
+        {
+            "barCode": "4750022805010",
+            "name": "ЗАКРЫТО Spilva соус татарський п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "13.12.2019",
+            "BBPercent": "-40",
+            "quantity": "26"
+        },
+        {
+            "barCode": "4750022809018",
+            "name": "Spilva соус гірчично-медовий п/п 375г/6шт ",
+            "validPeriod": "12",
+            "BBDate": "13.11.2019",
+            "BBPercent": "-49",
+            "quantity": "21"
+        },
+        {
+            "barCode": "4750022809018",
+            "name": "Spilva соус гірчично-медовий п/п 375г/6шт ",
+            "validPeriod": "12",
+            "BBDate": "18.02.2021",
+            "BBPercent": "78",
+            "quantity": "645"
+        },
+        {
+            "barCode": "4750022809018",
+            "name": "Spilva соус гірчично-медовий п/п 375г/6шт ",
+            "validPeriod": "12",
+            "BBDate": "10.03.2021",
+            "BBPercent": "84",
+            "quantity": "1872"
+        },
+        {
+            "barCode": "4750022809018",
+            "name": "Spilva соус гірчично-медовий п/п 375г/6шт ",
+            "validPeriod": "12",
+            "BBDate": "15.04.2021",
+            "BBPercent": "94",
+            "quantity": "936"
+        },
+        {
+            "barCode": "4750022811011",
+            "name": "ЗАКРЫТО Spilva соус салатний французький  п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "10.12.2019",
+            "BBPercent": "-41",
+            "quantity": "10"
+        },
+        {
+            "barCode": "4750022813015",
+            "name": "Spilva cоус салатний з лимоном та оливковою олією п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "13.03.2020",
+            "BBPercent": "-12",
+            "quantity": "185"
+        },
+        {
+            "barCode": "4750022813015",
+            "name": "Spilva cоус салатний з лимоном та оливковою олією п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "16.10.2020",
+            "BBPercent": "35",
+            "quantity": "74"
+        },
+        {
+            "barCode": "4750022813015",
+            "name": "Spilva cоус салатний з лимоном та оливковою олією п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "04.06.2021",
+            "BBPercent": "86",
+            "quantity": "762"
+        },
+        {
+            "barCode": "4750022822222",
+            "name": "ЗАКРЫТО Spilva соус салатний з лимоном і оливковою олією с/п 275г/6шт",
+            "validPeriod": "24",
+            "BBDate": "15.11.2019",
+            "BBPercent": "-24",
+            "quantity": "14"
+        },
+        {
+            "barCode": "4750022826190",
+            "name": "Spilva coyc Asia Chilli с/п 300г/6шт",
+            "validPeriod": "24",
+            "BBDate": "11.03.2022",
+            "BBPercent": "92",
+            "quantity": "1594"
+        },
+        {
+            "barCode": "4750022826190",
+            "name": "Spilva coyc Asia Chilli с/п 300г/6шт",
+            "validPeriod": "24",
+            "BBDate": "15.04.2022",
+            "BBPercent": "97",
+            "quantity": "6000"
+        },
+        {
+            "barCode": "4750022826251",
+            "name": "Spilva coyc Asia Thai с/п 310г/6шт",
+            "validPeriod": "24",
+            "BBDate": "11.03.2022",
+            "BBPercent": "92",
+            "quantity": "2171"
+        },
+        {
+            "barCode": "4750022826251",
+            "name": "Spilva coyc Asia Thai с/п 310г/6шт",
+            "validPeriod": "24",
+            "BBDate": "14.04.2022",
+            "BBPercent": "97",
+            "quantity": "5886"
+        },
+        {
+            "barCode": "4750022827197",
+            "name": "Spilva соус брусничный с яблоками с/п 285г/6шт",
+            "validPeriod": "24",
+            "BBDate": "13.03.2021",
+            "BBPercent": "42",
+            "quantity": "291"
+        },
+        {
+            "barCode": "4750022827197",
+            "name": "Spilva соус брусничный с яблоками с/п 285г/6шт",
+            "validPeriod": "24",
+            "BBDate": "11.11.2021",
+            "BBPercent": "75",
+            "quantity": "1086"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "10.11.2019",
+            "BBPercent": "-39",
+            "quantity": "14"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "11.12.2019",
+            "BBPercent": "-33",
+            "quantity": "7"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "04.01.2020",
+            "BBPercent": "-27",
+            "quantity": "6"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "17.03.2020",
+            "BBPercent": "-11",
+            "quantity": "17"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "21.06.2020",
+            "BBPercent": "10",
+            "quantity": "3"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "03.05.2021",
+            "BBPercent": "79",
+            "quantity": "708"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "04.06.2021",
+            "BBPercent": "86",
+            "quantity": "3732"
+        },
+        {
+            "barCode": "4750022881014",
+            "name": "Spilva cоус Бальзамико салатный п/п 390г/6шт",
+            "validPeriod": "15",
+            "BBDate": "16.07.2021",
+            "BBPercent": "95",
+            "quantity": "936"
+        },
+        {
+            "barCode": "4750022881199",
+            "name": "Spilva cоус Бальзамико салатный с/п 280г/6шт",
+            "validPeriod": "24",
+            "BBDate": "13.09.2020",
+            "BBPercent": "17",
+            "quantity": "46"
+        },
+        {
+            "barCode": "4750022881199",
+            "name": "Spilva cоус Бальзамико салатный с/п 280г/6шт",
+            "validPeriod": "24",
+            "BBDate": "10.02.2022",
+            "BBPercent": "88",
+            "quantity": "1494"
+        },
+        {
+            "barCode": "4750022881199",
+            "name": "Spilva cоус Бальзамико салатный с/п 280г/6шт",
+            "validPeriod": "24",
+            "BBDate": "11.03.2022",
+            "BBPercent": "92",
+            "quantity": "2154"
+        },
+        {
+            "barCode": "4750022881199",
+            "name": "Spilva cоус Бальзамико салатный с/п 280г/6шт",
+            "validPeriod": "24",
+            "BBDate": "14.04.2022",
+            "BBPercent": "97",
+            "quantity": "2118"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "04.10.2019",
+            "BBPercent": "-60",
+            "quantity": "11"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "13.11.2019",
+            "BBPercent": "-49",
+            "quantity": "2"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "17.01.2020",
+            "BBPercent": "-31",
+            "quantity": "1"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "19.02.2020",
+            "BBPercent": "-22",
+            "quantity": "1"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "02.03.2021",
+            "BBPercent": "82",
+            "quantity": "42"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "03.03.2021",
+            "BBPercent": "82",
+            "quantity": "2183"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "13.03.2021",
+            "BBPercent": "85",
+            "quantity": "3738"
+        },
+        {
+            "barCode": "4750022890016",
+            "name": "Spilva соус Цезар п/п 375г/6шт",
+            "validPeriod": "12",
+            "BBDate": "17.04.2021",
+            "BBPercent": "94",
+            "quantity": "9360"
+        },
+        {
+            "barCode": "4750022890252",
+            "name": "ЗАКРЫТО Spilva соус Цезар с/п 265г/6шт",
+            "validPeriod": "12",
+            "BBDate": "18.07.2019",
+            "BBPercent": "-81",
+            "quantity": "1"
+        },
+        {
+            "barCode": "4750022894250",
+            "name": "Spilva соус для стейка с/п 310г/6шт",
+            "validPeriod": "24",
+            "BBDate": "10.03.2022",
+            "BBPercent": "92",
+            "quantity": "1531"
+        },
+        {
+            "barCode": "4750022894250",
+            "name": "Spilva соус для стейка с/п 310г/6шт",
+            "validPeriod": "24",
+            "BBDate": "10.03.2022",
+            "BBPercent": "92",
+            "quantity": "44"
+        },
+        {
+            "barCode": "4750024202848",
+            "name": "Taffel суміш суха Діпі соус зі смаком сметани, цибулі та зеленої цибулі, 15г/20шт",
+            "validPeriod": "18",
+            "BBDate": "01.05.2021",
+            "BBPercent": "65",
+            "quantity": "2120"
+        },
+        {
+            "barCode": "4750024601054",
+            "name": "Taffel суміш суха Діпі соус зі смаком кропу, 16г/20шт",
+            "validPeriod": "18",
+            "BBDate": "26.04.2021",
+            "BBPercent": "64",
+            "quantity": "2120"
+        },
+        {
+            "barCode": "4750024601061",
+            "name": "Taffel суміш суха Діпі соус зі смаком часника, 14г/20шт",
+            "validPeriod": "18",
+            "BBDate": "25.04.2021",
+            "BBPercent": "64",
+            "quantity": "2100"
+        },
+        {
+            "barCode": "4760041300243",
+            "name": "Grante Соус гранатовый \"Наршараб\", 350г/6шт",
+            "validPeriod": "24",
+            "BBDate": "14.09.2018",
+            "BBPercent": "-83",
+            "quantity": "3"
+        },
+        {
+            "barCode": "4760041300243",
+            "name": "Grante Соус гранатовый \"Наршараб\", 350г/6шт",
+            "validPeriod": "24",
+            "BBDate": "28.01.2022",
+            "BBPercent": "86",
+            "quantity": "2109"
+        },
+        {
+            "barCode": "4810406000407",
+            "name": "ЗАКРЫТО 365 Хлібці пшенично-рисові \"Минские\" цільнозернові, 85гр/40шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2020",
+            "BBPercent": "-6",
+            "quantity": "4"
+        },
+        {
+            "barCode": "4810406000414",
+            "name": "ЗАКРЫТО 365 Хлібці гречано-житні \"Минские\" цільнозернові, 85гр/40шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2020",
+            "BBPercent": "-6",
+            "quantity": "14"
+        },
+        {
+            "barCode": "4810406000421",
+            "name": "ЗАКРЫТО 365 Хлібці злаковий коктейль \"Минские\" цільнозернові, 85гр/40шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2020",
+            "BBPercent": "-6",
+            "quantity": "28"
+        },
+        {
+            "barCode": "4810406000636",
+            "name": "ЗАКРЫТО 365 Хлібці житні \"Минские\" цільнозернові, 100гр/40шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2020",
+            "BBPercent": "-6",
+            "quantity": "1599"
+        },
+        {
+            "barCode": "4810406000773",
+            "name": "ЗАКРЫТО 365 Хлібці пшеничні \"Минские\" цільнозернові, 90гр/40шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2020",
+            "BBPercent": "-6",
+            "quantity": "940"
+        },
+        {
+            "barCode": "4820110990505",
+            "name": "Лавка Здоровья Хлібці хрусткі пшенично-вівсяні, 75г/48шт",
+            "validPeriod": "6",
+            "BBDate": "12.02.2020",
+            "BBPercent": "-47",
+            "quantity": "118"
+        },
+        {
+            "barCode": "4820110990505",
+            "name": "Лавка Здоровья Хлібці хрусткі пшенично-вівсяні, 75г/48шт",
+            "validPeriod": "6",
+            "BBDate": "27.10.2020",
+            "BBPercent": "94",
+            "quantity": "19126"
+        },
+        {
+            "barCode": "4820110990505",
+            "name": "Лавка Здоровья Хлібці хрусткі пшенично-вівсяні, 75г/48шт",
+            "validPeriod": "6",
+            "BBDate": "04.11.2020",
+            "BBPercent": "98",
+            "quantity": "37484"
+        },
+        {
+            "barCode": "4820110990512",
+            "name": "Лавка Здоровья Хлібці хрусткі житні, 75г/48шт",
+            "validPeriod": "6",
+            "BBDate": "12.02.2020",
+            "BBPercent": "-47",
+            "quantity": "72"
+        },
+        {
+            "barCode": "4820110990512",
+            "name": "Лавка Здоровья Хлібці хрусткі житні, 75г/48шт",
+            "validPeriod": "6",
+            "BBDate": "04.11.2020",
+            "BBPercent": "98",
+            "quantity": "65949"
+        },
+        {
+            "barCode": "5000111001540",
+            "name": "ЗАКРЫТО Heinz Lea&Perrins Соус Ворчестер с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "01.04.2019",
+            "BBPercent": "-74",
+            "quantity": "2"
+        },
+        {
+            "barCode": "5000111001540",
+            "name": "ЗАКРЫТО Heinz Lea&Perrins Соус Ворчестер с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "31.08.2019",
+            "BBPercent": "-46",
+            "quantity": "4"
+        },
+        {
+            "barCode": "5000111001540",
+            "name": "ЗАКРЫТО Heinz Lea&Perrins Соус Ворчестер с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "31.01.2020",
+            "BBPercent": "-18",
+            "quantity": "23"
+        },
+        {
+            "barCode": "5000111001540",
+            "name": "ЗАКРЫТО Heinz Lea&Perrins Соус Ворчестер с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "31.07.2020",
+            "BBPercent": "15",
+            "quantity": "6"
+        },
+        {
+            "barCode": "5000111001540",
+            "name": "ЗАКРЫТО Heinz Lea&Perrins Соус Ворчестер с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "31.07.2020",
+            "BBPercent": "15",
+            "quantity": "20"
+        },
+        {
+            "barCode": "5000111012126",
+            "name": "Heinz Lea&Perrins Соус Ворчестер п/каністра 4 л/2шт",
+            "validPeriod": "18",
+            "BBDate": "01.04.2020",
+            "BBPercent": "-7",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5000111012126",
+            "name": "Heinz Lea&Perrins Соус Ворчестер п/каністра 4 л/2шт",
+            "validPeriod": "18",
+            "BBDate": "01.07.2021",
+            "BBPercent": "77",
+            "quantity": "49"
+        },
+        {
+            "barCode": "5000111041843",
+            "name": "Heinz Lea&Perrins соус Уочестер (Вустерський) с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "quantity": "20"
+        },
+        {
+            "barCode": "5000111041843",
+            "name": "Heinz Lea&Perrins соус Уочестер (Вустерський) с/п 290 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "09.04.2021",
+            "BBPercent": "61",
+            "quantity": "959"
+        },
+        {
+            "barCode": "5000157073006",
+            "name": "Heinz соус соєвий с/п 150 мл/12шт",
+            "validPeriod": "30",
+            "BBDate": "01.01.2021",
+            "BBPercent": "26",
+            "quantity": "2"
+        },
+        {
+            "barCode": "5000157073006",
+            "name": "Heinz соус соєвий с/п 150 мл/12шт",
+            "validPeriod": "30",
+            "BBDate": "31.07.2021",
+            "BBPercent": "49",
+            "quantity": "4"
+        },
+        {
+            "barCode": "5000157073006",
+            "name": "Heinz соус соєвий с/п 150 мл/12шт",
+            "validPeriod": "30",
+            "BBDate": "04.06.2022",
+            "BBPercent": "83",
+            "quantity": "1256"
+        },
+        {
+            "barCode": "5000157073006",
+            "name": "Heinz соус соєвий с/п 150 мл/12шт",
+            "validPeriod": "30",
+            "BBDate": "14.07.2022",
+            "BBPercent": "87",
+            "quantity": "2436"
+        },
+        {
+            "barCode": "5000157073006",
+            "name": "ЗАКРЫТО Heinz соус соєвий оригінальний с/п 150 мл",
+            "validPeriod": "30",
+            "BBDate": "05.01.2022",
+            "BBPercent": "66",
+            "quantity": "22"
+        },
+        {
+            "barCode": "5000157073020",
+            "name": "Heinz соус Ворчестер с/п 150мл/12шт",
+            "validPeriod": "36",
+            "BBDate": "31.10.2021",
+            "BBPercent": "49",
+            "quantity": "657"
+        },
+        {
+            "barCode": "5000157076441",
+            "name": "ЗАКРЫТО Heinz майонез легкий с/б 490г/8шт",
+            "validPeriod": "12",
+            "BBDate": "01.11.2019",
+            "BBPercent": "-52",
+            "quantity": "165"
+        },
+        {
+            "barCode": "5000157104571",
+            "name": "Heinz майонез 70% сашет 9,5г/200шт",
+            "validPeriod": "8",
+            "BBDate": "01.03.2019",
+            "BBPercent": "-179",
+            "quantity": "53"
+        },
+        {
+            "barCode": "5000157104984",
+            "name": "Heinz майонез 70% сашет 16г",
+            "validPeriod": "12",
+            "BBDate": "31.07.2020",
+            "BBPercent": "23",
+            "quantity": "4612"
+        },
+        {
+            "barCode": "5000157105189",
+            "name": "Heinz дресінг Італійський діп-пак 25 мл/100шт ",
+            "validPeriod": "11",
+            "BBDate": "22.01.2020",
+            "BBPercent": "-32",
+            "quantity": "26013"
+        },
+        {
+            "barCode": "5000157105189",
+            "name": "Heinz дресінг Італійський діп-пак 25 мл/100шт ",
+            "validPeriod": "11",
+            "BBDate": "05.03.2020",
+            "BBPercent": "-19",
+            "quantity": "14249"
+        },
+        {
+            "barCode": "5000157105196",
+            "name": "Heinz дресінг медово-гірчичний діп-пак 25 мл/100шт",
+            "validPeriod": "11",
+            "BBDate": "27.02.2020",
+            "BBPercent": "-21",
+            "quantity": "35576"
+        },
+        {
+            "barCode": "5000157105196",
+            "name": "Heinz дресінг медово-гірчичний діп-пак 25 мл/100шт",
+            "validPeriod": "11",
+            "BBDate": "16.11.2020",
+            "BBPercent": "57",
+            "quantity": "3995"
+        },
+        {
+            "barCode": "5000157105202",
+            "name": "Heinz дресінг салатний Цезар діп-пак 25 мл/100шт ",
+            "validPeriod": "12",
+            "BBDate": "09.04.2020",
+            "BBPercent": "-8",
+            "quantity": "556"
+        },
+        {
+            "barCode": "5000157105202",
+            "name": "Heinz дресінг салатний Цезар діп-пак 25 мл/100шт ",
+            "validPeriod": "12",
+            "BBDate": "06.02.2021",
+            "BBPercent": "75",
+            "quantity": "7495"
+        },
+        {
+            "barCode": "5000157106278",
+            "name": "Heinz дресінг Італійський сашет 50 мл/30 шт",
+            "validPeriod": "11",
+            "BBDate": "12.04.2019",
+            "BBPercent": "-117",
+            "quantity": "94"
+        },
+        {
+            "barCode": "5000157106278",
+            "name": "Heinz дресінг Італійський сашет 50 мл/30 шт",
+            "validPeriod": "11",
+            "BBDate": "01.01.2020",
+            "BBPercent": "-38",
+            "quantity": "5129"
+        },
+        {
+            "barCode": "5012389670434",
+            "name": "Encona Соус Техаський Чилі Барбекю с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "30.09.2019",
+            "BBPercent": "-40",
+            "quantity": "35"
+        },
+        {
+            "barCode": "5012389670434",
+            "name": "Encona Соус Техаський Чилі Барбекю с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "30.04.2020",
+            "BBPercent": "-2",
+            "quantity": "110"
+        },
+        {
+            "barCode": "5012389670434",
+            "name": "Encona Соус Техаський Чилі Барбекю с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "30.04.2021",
+            "BBPercent": "65",
+            "quantity": "393"
+        },
+        {
+            "barCode": "5012389670762",
+            "name": "Encona Соус Карибський Екстра Гострий Перцевий с/п 142мл/6шт",
+            "validPeriod": "20",
+            "BBDate": "31.08.2021",
+            "BBPercent": "79",
+            "quantity": "521"
+        },
+        {
+            "barCode": "5012389670991",
+            "name": "Encona Соус Африканський Пірі Пірі с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "31.08.2019",
+            "BBPercent": "-46",
+            "quantity": "11"
+        },
+        {
+            "barCode": "5012389670991",
+            "name": "Encona Соус Африканський Пірі Пірі с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "28.02.2021",
+            "BBPercent": "54",
+            "quantity": "147"
+        },
+        {
+            "barCode": "5012389671318",
+            "name": "ЗАКРЫТО Encona Соус Ямайський Спеціальний Резерв Гострий Перцевий  с/п 85 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "31.10.2019",
+            "BBPercent": "-35",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5012389671318",
+            "name": "ЗАКРЫТО Encona Соус Ямайський Спеціальний Резерв Гострий Перцевий  с/п 85 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "01.01.2020",
+            "BBPercent": "-23",
+            "quantity": "18"
+        },
+        {
+            "barCode": "5012389671318",
+            "name": "ЗАКРЫТО Encona Соус Ямайський Спеціальний Резерв Гострий Перцевий  с/п 85 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "29.02.2020",
+            "BBPercent": "-13",
+            "quantity": "30"
+        },
+        {
+            "barCode": "5012389671318",
+            "name": "ЗАКРЫТО Encona Соус Ямайський Спеціальний Резерв Гострий Перцевий  с/п 85 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "29.02.2020",
+            "BBPercent": "-13",
+            "quantity": "7"
+        },
+        {
+            "barCode": "5012389671318",
+            "name": "ЗАКРЫТО Encona Соус Ямайський Спеціальний Резерв Гострий Перцевий  с/п 85 мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "01.03.2020",
+            "BBPercent": "-13",
+            "quantity": "77"
+        },
+        {
+            "barCode": "5012389900173",
+            "name": "Encona Соус Індійський Солодкий Манго Чилі  с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "31.08.2019",
+            "BBPercent": "-46",
+            "quantity": "10"
+        },
+        {
+            "barCode": "5012389900173",
+            "name": "Encona Соус Індійський Солодкий Манго Чилі  с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "31.12.2019",
+            "BBPercent": "-24",
+            "quantity": "4"
+        },
+        {
+            "barCode": "5012389900173",
+            "name": "Encona Соус Індійський Солодкий Манго Чилі  с/п 142 мл/6шт",
+            "validPeriod": "18",
+            "BBDate": "31.05.2021",
+            "BBPercent": "71",
+            "quantity": "675"
+        },
+        {
+            "barCode": "5035139201023",
+            "name": "Grace соус Гострий Перцевий с/п 85мл/12шт",
+            "validPeriod": "18",
+            "BBDate": "31.05.2021",
+            "BBPercent": "71",
+            "quantity": "1562"
+        },
+        {
+            "barCode": "50457793",
+            "name": "Heinz кетчуп томатний дитячий п/п 330 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.03.2020",
+            "BBPercent": "-15",
+            "quantity": "2"
+        },
+        {
+            "barCode": "50457793",
+            "name": "Heinz кетчуп томатний дитячий п/п 330 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.08.2020",
+            "BBPercent": "18",
+            "quantity": "58"
+        },
+        {
+            "barCode": "50457793",
+            "name": "Heinz кетчуп томатний дитячий п/п 330 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.05.2021",
+            "BBPercent": "79",
+            "quantity": "994"
+        },
+        {
+            "barCode": "50457793",
+            "name": "Heinz кетчуп томатний дитячий п/п 330 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.05.2021",
+            "BBPercent": "79",
+            "quantity": "200"
+        },
+        {
+            "barCode": "50761142",
+            "name": "Encona Соус Карибський Гострий Перцевий Оригінальний с/п 142мл/6шт",
+            "validPeriod": "20",
+            "BBDate": "20.02.2020",
+            "BBPercent": "-13",
+            "quantity": "32"
+        },
+        {
+            "barCode": "50761142",
+            "name": "Encona Соус Карибський Гострий Перцевий Оригінальний с/п 142мл/6шт",
+            "validPeriod": "20",
+            "BBDate": "28.02.2021",
+            "BBPercent": "48",
+            "quantity": "386"
+        },
+        {
+            "barCode": "50761142",
+            "name": "Encona Соус Карибський Гострий Перцевий Оригінальний с/п 142мл/6шт",
+            "validPeriod": "20",
+            "BBDate": "28.02.2021",
+            "BBPercent": "48",
+            "quantity": "36"
+        },
+        {
+            "barCode": "50761142",
+            "name": "Encona Соус Карибський Гострий Перцевий Оригінальний с/п 142мл/6шт",
+            "validPeriod": "20",
+            "BBDate": "30.09.2021",
+            "BBPercent": "84",
+            "quantity": "188"
+        },
+        {
+            "barCode": "50761180",
+            "name": "Encona Соус Тайський Солодкий Чилі с/п 142 мл/6шт",
+            "validPeriod": "20",
+            "BBDate": "31.08.2021",
+            "BBPercent": "79",
+            "quantity": "494"
+        },
+        {
+            "barCode": "5413226100037",
+            "name": "Heinz дресінг Цезар сашет 50 мл/30 шт",
+            "validPeriod": "11",
+            "BBDate": "04.03.2019",
+            "BBPercent": "-129",
+            "quantity": "50"
+        },
+        {
+            "barCode": "5413226100037",
+            "name": "Heinz дресінг Цезар сашет 50 мл/30 шт",
+            "validPeriod": "11",
+            "BBDate": "31.03.2020",
+            "BBPercent": "-11",
+            "quantity": "3100"
+        },
+        {
+            "barCode": "5413226100303",
+            "name": "Heinz соус до картоплі фрі діп-пак 25 г/100 шт",
+            "validPeriod": "12",
+            "BBDate": "18.11.2019",
+            "BBPercent": "-47",
+            "quantity": "583"
+        },
+        {
+            "barCode": "5413226100303",
+            "name": "Heinz соус до картоплі фрі діп-пак 25 г/100 шт",
+            "validPeriod": "12",
+            "BBDate": "14.10.2020",
+            "BBPercent": "43",
+            "quantity": "2735"
+        },
+        {
+            "barCode": "5413226100303",
+            "name": "Heinz соус до картоплі фрі діп-пак 25 г/100 шт",
+            "validPeriod": "12",
+            "BBDate": "07.01.2021",
+            "BBPercent": "67",
+            "quantity": "10000"
+        },
+        {
+            "barCode": "5413226550122",
+            "name": "Heinz кетчуп томатний діп-пак 25 г/100шт",
+            "validPeriod": "9",
+            "BBDate": "20.09.2019",
+            "BBPercent": "-84",
+            "quantity": "364"
+        },
+        {
+            "barCode": "5413226550122",
+            "name": "Heinz кетчуп томатний діп-пак 25 г/100шт",
+            "validPeriod": "9",
+            "BBDate": "02.06.2020",
+            "BBPercent": "9",
+            "quantity": "61"
+        },
+        {
+            "barCode": "5413226551006",
+            "name": "Heinz кетчуп томатний діп-пак 25 г/100шт",
+            "validPeriod": "9",
+            "BBDate": "13.10.2020",
+            "BBPercent": "58",
+            "quantity": "3845"
+        },
+        {
+            "barCode": "5413226551006",
+            "name": "Heinz кетчуп томатний діп-пак 25 г/100шт",
+            "validPeriod": "9",
+            "BBDate": "09.11.2020",
+            "BBPercent": "67",
+            "quantity": "3000"
+        },
+        {
+            "barCode": "5413226551013",
+            "name": "Heinz соус барбекю діп-пак 25 г/100 шт",
+            "validPeriod": "12",
+            "BBDate": "08.07.2019",
+            "BBPercent": "-84",
+            "quantity": "140"
+        },
+        {
+            "barCode": "5413226551013",
+            "name": "Heinz соус барбекю діп-пак 25 г/100 шт",
+            "validPeriod": "12",
+            "BBDate": "23.12.2020",
+            "BBPercent": "62",
+            "quantity": "1930"
+        },
+        {
+            "barCode": "5413226551112",
+            "name": "Heinz майонез діп-пак 25 г/100 шт",
+            "validPeriod": "9",
+            "BBDate": "22.02.2019",
+            "BBPercent": "-160",
+            "quantity": "700"
+        },
+        {
+            "barCode": "5413226551112",
+            "name": "Heinz майонез діп-пак 25 г/100 шт",
+            "validPeriod": "9",
+            "BBDate": "27.10.2019",
+            "BBPercent": "-71",
+            "quantity": "787"
+        },
+        {
+            "barCode": "5413226601008",
+            "name": "Heinz кетчуп томатний Roomservice с/б 39 г/80 шт",
+            "validPeriod": "15",
+            "BBDate": "29.01.2020",
+            "BBPercent": "-22",
+            "quantity": "561"
+        },
+        {
+            "barCode": "5413226601008",
+            "name": "Heinz кетчуп томатний Roomservice с/б 39 г/80 шт",
+            "validPeriod": "15",
+            "BBDate": "07.03.2020",
+            "BBPercent": "-14",
+            "quantity": "13430"
+        },
+        {
+            "barCode": "5413226601008",
+            "name": "Heinz кетчуп томатний Roomservice с/б 39 г/80 шт",
+            "validPeriod": "15",
+            "BBDate": "17.05.2021",
+            "BBPercent": "82",
+            "quantity": "2000"
+        },
+        {
+            "barCode": "5413226601077",
+            "name": "Heinz майонез 70% Roomservice с/б 33 мл/80 шт",
+            "validPeriod": "15",
+            "BBDate": "28.12.2019",
+            "BBPercent": "-29",
+            "quantity": "940"
+        },
+        {
+            "barCode": "5413226601077",
+            "name": "Heinz майонез 70% Roomservice с/б 33 мл/80 шт",
+            "validPeriod": "15",
+            "BBDate": "04.01.2020",
+            "BBPercent": "-27",
+            "quantity": "1370"
+        },
+        {
+            "barCode": "5413226601077",
+            "name": "Heinz майонез 70% Roomservice с/б 33 мл/80 шт",
+            "validPeriod": "15",
+            "BBDate": "01.02.2020",
+            "BBPercent": "-21",
+            "quantity": "6775"
+        },
+        {
+            "barCode": "5413226601107",
+            "name": "Heinz гірчиця Діжонська Roomservice с/б 33 мл/80 шт",
+            "validPeriod": "15",
+            "BBDate": "15.12.2019",
+            "BBPercent": "-32",
+            "quantity": "1918"
+        },
+        {
+            "barCode": "5413226601107",
+            "name": "Heinz гірчиця Діжонська Roomservice с/б 33 мл/80 шт",
+            "validPeriod": "15",
+            "BBDate": "10.03.2020",
+            "BBPercent": "-13",
+            "quantity": "4540"
+        },
+        {
+            "barCode": "5413226601107",
+            "name": "Heinz гірчиця Діжонська Roomservice с/б 33 мл/80 шт",
+            "validPeriod": "15",
+            "BBDate": "20.11.2020",
+            "BBPercent": "43",
+            "quantity": "1040"
+        },
+        {
+            "barCode": "5900617001962",
+            "name": "Sante Паштет соєвий з кропом, 113г/6шт",
+            "validPeriod": "24",
+            "BBDate": "03.03.2022",
+            "BBPercent": "91",
+            "quantity": "1440"
+        },
+        {
+            "barCode": "5900617001979",
+            "name": "Sante Паштет соєвий з паприкою, 113г/6шт",
+            "validPeriod": "24",
+            "BBDate": "12.03.2022",
+            "BBPercent": "92",
+            "quantity": "1475"
+        },
+        {
+            "barCode": "5900617002006",
+            "name": "Sante Паштет соєвий класичний, 113г/6шт",
+            "validPeriod": "24",
+            "BBDate": "18.11.2021",
+            "BBPercent": "76",
+            "quantity": "647"
+        },
+        {
+            "barCode": "5900617002211",
+            "name": "Sante Кранчі з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "16.01.2021",
+            "BBPercent": "69",
+            "quantity": "885"
+        },
+        {
+            "barCode": "5900617002211",
+            "name": "Sante Кранчі з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "07.02.2021",
+            "BBPercent": "75",
+            "quantity": "1526"
+        },
+        {
+            "barCode": "5900617002211",
+            "name": "Sante Кранчі з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "21.04.2021",
+            "BBPercent": "95",
+            "quantity": "1792"
+        },
+        {
+            "barCode": "5900617002228",
+            "name": "Sante Кранчі оригінальні (класичні), 350г/14шт ",
+            "validPeriod": "12",
+            "BBDate": "02.03.2021",
+            "BBPercent": "82",
+            "quantity": "1654"
+        },
+        {
+            "barCode": "5900617002228",
+            "name": "Sante Кранчі оригінальні (класичні), 350г/14шт ",
+            "validPeriod": "12",
+            "BBDate": "08.04.2021",
+            "BBPercent": "92",
+            "quantity": "1792"
+        },
+        {
+            "barCode": "5900617002617",
+            "name": "Sante Кранчі з бананом і шоколадом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "10.02.2021",
+            "BBPercent": "76",
+            "quantity": "1237"
+        },
+        {
+            "barCode": "5900617002617",
+            "name": "Sante Кранчі з бананом і шоколадом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "05.03.2021",
+            "BBPercent": "82",
+            "quantity": "1792"
+        },
+        {
+            "barCode": "5900617002617",
+            "name": "Sante Кранчі з бананом і шоколадом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "23.04.2021",
+            "BBPercent": "96",
+            "quantity": "2688"
+        },
+        {
+            "barCode": "5900617002945",
+            "name": "ЗАКРЫТО Sante Висівки вівсяні, 150г/12шт",
+            "validPeriod": "9",
+            "BBDate": "25.01.2017",
+            "BBPercent": "-436",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5900617002969",
+            "name": "Sante Гранола з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "02.10.2020",
+            "BBPercent": "40",
+            "quantity": "24"
+        },
+        {
+            "barCode": "5900617002969",
+            "name": "Sante Гранола з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "06.11.2020",
+            "BBPercent": "50",
+            "quantity": "402"
+        },
+        {
+            "barCode": "5900617002969",
+            "name": "Sante Гранола з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "06.11.2020",
+            "BBPercent": "50",
+            "quantity": "200"
+        },
+        {
+            "barCode": "5900617002969",
+            "name": "Sante Гранола з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.12.2020",
+            "BBPercent": "57",
+            "quantity": "421"
+        },
+        {
+            "barCode": "5900617002969",
+            "name": "Sante Гранола з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "11.03.2021",
+            "BBPercent": "84",
+            "quantity": "1582"
+        },
+        {
+            "barCode": "5900617002969",
+            "name": "Sante Гранола з фруктами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "06.04.2021",
+            "BBPercent": "91",
+            "quantity": "2688"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "08.02.2020",
+            "BBPercent": "-25",
+            "quantity": "14"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "07.11.2020",
+            "BBPercent": "50",
+            "quantity": "907"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "07.11.2020",
+            "BBPercent": "50",
+            "quantity": "200"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.12.2020",
+            "BBPercent": "57",
+            "quantity": "1459"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "08.01.2021",
+            "BBPercent": "67",
+            "quantity": "798"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "03.03.2021",
+            "BBPercent": "82",
+            "quantity": "1932"
+        },
+        {
+            "barCode": "5900617002976",
+            "name": "Sante Гранола з горіхами, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "09.04.2021",
+            "BBPercent": "92",
+            "quantity": "2688"
+        },
+        {
+            "barCode": "5900617002983",
+            "name": "Sante Гранола з шоколадом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.03.2020",
+            "BBPercent": "-18",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5900617002983",
+            "name": "Sante Гранола з шоколадом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.02.2021",
+            "BBPercent": "74",
+            "quantity": "890"
+        },
+        {
+            "barCode": "5900617002983",
+            "name": "Sante Гранола з шоколадом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "03.03.2021",
+            "BBPercent": "82",
+            "quantity": "895"
+        },
+        {
+            "barCode": "5900617003331",
+            "name": "Sante Гранола з фруктами, 500г/14шт",
+            "validPeriod": "12",
+            "BBDate": "01.04.2021",
+            "BBPercent": "90",
+            "quantity": "523"
+        },
+        {
+            "barCode": "5900617003331",
+            "name": "Sante Гранола з фруктами, 500г/14шт",
+            "validPeriod": "12",
+            "BBDate": "06.04.2021",
+            "BBPercent": "91",
+            "quantity": "504"
+        },
+        {
+            "barCode": "5900617003348",
+            "name": "Sante Гранола з горіхами, 500г/14шт",
+            "validPeriod": "12",
+            "BBDate": "10.04.2021",
+            "BBPercent": "92",
+            "quantity": "882"
+        },
+        {
+            "barCode": "5900617003355",
+            "name": "Sante Гранола з шоколадом, 500г/14шт",
+            "validPeriod": "12",
+            "BBDate": "14.04.2021",
+            "BBPercent": "93",
+            "quantity": "1225"
+        },
+        {
+            "barCode": "5900617003454",
+            "name": "Sante Арахісове масло зі шматочками горіхів, 350г/6шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2021",
+            "BBPercent": "94",
+            "quantity": "430"
+        },
+        {
+            "barCode": "5900617003645",
+            "name": "Sante Гранола з шоколадом, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "03.06.2020",
+            "BBPercent": "7",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5900617003645",
+            "name": "Sante Гранола з шоколадом, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "14.01.2021",
+            "BBPercent": "68",
+            "quantity": "930"
+        },
+        {
+            "barCode": "5900617003645",
+            "name": "Sante Гранола з шоколадом, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "17.03.2021",
+            "BBPercent": "86",
+            "quantity": "1960"
+        },
+        {
+            "barCode": "5900617003645",
+            "name": "Sante Гранола з шоколадом, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "18.03.2021",
+            "BBPercent": "86",
+            "quantity": "1960"
+        },
+        {
+            "barCode": "5900617008374",
+            "name": "Sante Гранола з фруктами, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "13.02.2021",
+            "BBPercent": "77",
+            "quantity": "235"
+        },
+        {
+            "barCode": "5900617008374",
+            "name": "Sante Гранола з фруктами, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "16.03.2021",
+            "BBPercent": "85",
+            "quantity": "1932"
+        },
+        {
+            "barCode": "5900617008374",
+            "name": "Sante Гранола з фруктами, 50г/14шт",
+            "validPeriod": "12",
+            "BBDate": "16.04.2021",
+            "BBPercent": "94",
+            "quantity": "1960"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.01.2020",
+            "BBPercent": "-34",
+            "quantity": "2"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "06.03.2020",
+            "BBPercent": "-17",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "01.04.2020",
+            "BBPercent": "-10",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.09.2020",
+            "BBPercent": "32",
+            "quantity": "391"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "04.09.2020",
+            "BBPercent": "32",
+            "quantity": "640"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "19.09.2020",
+            "BBPercent": "36",
+            "quantity": "12"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "19.09.2020",
+            "BBPercent": "36",
+            "quantity": "212"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "05.11.2020",
+            "BBPercent": "49",
+            "quantity": "730"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "03.12.2020",
+            "BBPercent": "57",
+            "quantity": "1099"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "10.01.2021",
+            "BBPercent": "67",
+            "quantity": "616"
+        },
+        {
+            "barCode": "5900617011930",
+            "name": "Sante Гранола з гранатом, 350г/14шт",
+            "validPeriod": "12",
+            "BBDate": "05.03.2021",
+            "BBPercent": "82",
+            "quantity": "2198"
+        },
+        {
+            "barCode": "5900617012197",
+            "name": "Sante Арахісове масло, 350г/6шт",
+            "validPeriod": "12",
+            "BBDate": "09.04.2021",
+            "BBPercent": "92",
+            "quantity": "592"
+        },
+        {
+            "barCode": "5900617013279",
+            "name": "Sante Маца Традиційна пшенична, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "30.10.2019",
+            "BBPercent": "-52",
+            "quantity": "4"
+        },
+        {
+            "barCode": "5900617013279",
+            "name": "Sante Маца Традиційна пшенична, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "05.02.2020",
+            "BBPercent": "-26",
+            "quantity": "11"
+        },
+        {
+            "barCode": "5900617013279",
+            "name": "Sante Маца Традиційна пшенична, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "04.09.2020",
+            "BBPercent": "32",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5900617013279",
+            "name": "Sante Маца Традиційна пшенична, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "26.11.2020",
+            "BBPercent": "55",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5900617013279",
+            "name": "Sante Маца Традиційна пшенична, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "08.01.2021",
+            "BBPercent": "67",
+            "quantity": "2"
+        },
+        {
+            "barCode": "5900617013279",
+            "name": "Sante Маца Традиційна пшенична, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "09.04.2021",
+            "BBPercent": "92",
+            "quantity": "2647"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "12.08.2019",
+            "BBPercent": "-74",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "03.12.2019",
+            "BBPercent": "-43",
+            "quantity": "11"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "06.02.2020",
+            "BBPercent": "-25",
+            "quantity": "11"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "27.02.2020",
+            "BBPercent": "-20",
+            "quantity": "6"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "07.04.2020",
+            "BBPercent": "-9",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "07.05.2020",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "01.07.2020",
+            "BBPercent": "15",
+            "quantity": "314"
+        },
+        {
+            "barCode": "5900617013286",
+            "name": "Sante Маца Цільнозернова з борошна грубого помелу пшениці та жита, 180г/8шт",
+            "validPeriod": "12",
+            "BBDate": "14.04.2021",
+            "BBPercent": "93",
+            "quantity": "1085"
+        },
+        {
+            "barCode": "5900617014672",
+            "name": "Sante Хлібці рисові з амарантом, 110г/12шт",
+            "validPeriod": "12",
+            "BBDate": "16.10.2019",
+            "BBPercent": "-56",
+            "quantity": "46"
+        },
+        {
+            "barCode": "5900617014672",
+            "name": "Sante Хлібці рисові з амарантом, 110г/12шт",
+            "validPeriod": "12",
+            "BBDate": "16.05.2020",
+            "BBPercent": "2",
+            "quantity": "139"
+        },
+        {
+            "barCode": "5900617014672",
+            "name": "Sante Хлібці рисові з амарантом, 110г/12шт",
+            "validPeriod": "12",
+            "BBDate": "20.01.2021",
+            "BBPercent": "70",
+            "quantity": "362"
+        },
+        {
+            "barCode": "5900617030788",
+            "name": "ЗАКРЫТО Sante Злакові пластівці Фіт з журавлиною, чорницею і ягодами годжі, 225г/8шт",
+            "validPeriod": "12",
+            "BBDate": "15.06.2020",
+            "BBPercent": "10",
+            "quantity": "101"
+        },
+        {
+            "barCode": "5900617030795",
+            "name": "ЗАКРЫТО Sante Злакові пластівці Фіт з полуницею, малиною і вишнею, 225г/8шт",
+            "validPeriod": "12",
+            "BBDate": "17.06.2020",
+            "BBPercent": "11",
+            "quantity": "96"
+        },
+        {
+            "barCode": "5900617033840",
+            "name": "Sante Батончик вівсяний гранола з шоколадом, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "10.09.2020",
+            "BBPercent": "34",
+            "quantity": "2722"
+        },
+        {
+            "barCode": "5900617033840",
+            "name": "Sante Батончик вівсяний гранола з шоколадом, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "18.01.2021",
+            "BBPercent": "70",
+            "quantity": "2688"
+        },
+        {
+            "barCode": "5900617033864",
+            "name": "Sante Батончик вівсяний гранола з журавлиною, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "10.09.2020",
+            "BBPercent": "34",
+            "quantity": "2147"
+        },
+        {
+            "barCode": "5900617033864",
+            "name": "Sante Батончик вівсяний гранола з журавлиною, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "17.01.2021",
+            "BBPercent": "69",
+            "quantity": "5040"
+        },
+        {
+            "barCode": "5900617033888",
+            "name": "Sante Батончик вівсяний гранола з медом, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "01.08.2020",
+            "BBPercent": "23",
+            "quantity": "2801"
+        },
+        {
+            "barCode": "5900617033888",
+            "name": "Sante Батончик вівсяний гранола з медом, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "09.09.2020",
+            "BBPercent": "34",
+            "quantity": "2496"
+        },
+        {
+            "barCode": "5900617033888",
+            "name": "Sante Батончик вівсяний гранола з медом, 40г/24шт",
+            "validPeriod": "12",
+            "BBDate": "11.02.2021",
+            "BBPercent": "76",
+            "quantity": "1824"
+        },
+        {
+            "barCode": "5900617037039",
+            "name": "Sante Напій (вівсяно-мигдалевий органічний без цукру) к/у 1035г(1л)/6шт",
+            "validPeriod": "12",
+            "BBDate": "20.09.2020",
+            "BBPercent": "37",
+            "quantity": "6"
+        },
+        {
+            "barCode": "5900617037138",
+            "name": "Sante Напій Бариста (соєвий), к/у 1035г(1л)/6шт",
+            "validPeriod": "12",
+            "BBDate": "26.07.2020",
+            "BBPercent": "21",
+            "quantity": "434"
+        },
+        {
+            "barCode": "5900617037138",
+            "name": "Sante Напій Бариста (соєвий), к/у 1035г(1л)/6шт",
+            "validPeriod": "12",
+            "BBDate": "27.12.2020",
+            "BBPercent": "64",
+            "quantity": "686"
+        },
+        {
+            "barCode": "5900783000455",
+            "name": "Heinz кетчуп томатний п/п 342 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.09.2019",
+            "BBPercent": "-55",
+            "quantity": "14"
+        },
+        {
+            "barCode": "5900783000455",
+            "name": "Heinz кетчуп томатний п/п 342 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.06.2021",
+            "BBPercent": "85",
+            "quantity": "10558"
+        },
+        {
+            "barCode": "5900783000455",
+            "name": "Heinz кетчуп томатний п/п 342 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.07.2021",
+            "BBPercent": "92",
+            "quantity": "10150"
+        },
+        {
+            "barCode": "5900783000462",
+            "name": "Heinz кетчуп томатний гострий п/п 342 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.12.2020",
+            "BBPercent": "45",
+            "quantity": "6"
+        },
+        {
+            "barCode": "5900783000462",
+            "name": "Heinz кетчуп томатний гострий п/п 342 г/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.12.2020",
+            "BBPercent": "45",
+            "quantity": "217"
+        },
+        {
+            "barCode": "5900783007515",
+            "name": "ЗАКРЫТО Heinz соус Італійський з базиліком та часником с/б 500г/6шт",
+            "validPeriod": "12",
+            "BBDate": "12.07.2019",
+            "BBPercent": "-83",
+            "quantity": "9"
+        },
+        {
+            "barCode": "5900783007614",
+            "name": "Heinz горошок зелений ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "18.06.2022",
+            "BBPercent": "70",
+            "quantity": "6481"
+        },
+        {
+            "barCode": "5900783007614",
+            "name": "Heinz горошок зелений ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "25.06.2022",
+            "BBPercent": "71",
+            "quantity": "21193"
+        },
+        {
+            "barCode": "5900783007614",
+            "name": "Heinz горошок зелений ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "27.06.2022",
+            "BBPercent": "71",
+            "quantity": "12"
+        },
+        {
+            "barCode": "5900783009427",
+            "name": "Heinz RU кукурудза цукрова ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "26.08.2022",
+            "BBPercent": "77",
+            "quantity": "11829"
+        },
+        {
+            "barCode": "5900783009427",
+            "name": "Heinz RU кукурудза цукрова ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "29.08.2022",
+            "BBPercent": "77",
+            "quantity": "2021"
+        },
+        {
+            "barCode": "5900783009427",
+            "name": "Heinz RU кукурудза цукрова ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "07.09.2022",
+            "BBPercent": "78",
+            "quantity": "12499"
+        },
+        {
+            "barCode": "5900783009434",
+            "name": "Heinz RU горошок зелений ж/б 400г/20шт",
+            "validPeriod": "36",
+            "BBDate": "27.06.2022",
+            "BBPercent": "71",
+            "quantity": "1844"
+        },
+        {
+            "barCode": "5902115107894",
+            "name": "ViVio Меляса з тростини цукрової органічна, 450г/10шт",
+            "validPeriod": "10",
+            "BBDate": "30.10.2018",
+            "BBPercent": "-183",
+            "quantity": "21"
+        },
+        {
+            "barCode": "5902180010334",
+            "name": "Sonko Галети рисові натуральні,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "31.05.2020",
+            "BBPercent": "6",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5902180010334",
+            "name": "Sonko Галети рисові натуральні,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "03.03.2021",
+            "BBPercent": "82",
+            "quantity": "43"
+        },
+        {
+            "barCode": "5902180010334",
+            "name": "Sonko Галети рисові натуральні,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "06.04.2021",
+            "BBPercent": "91",
+            "quantity": "2688"
+        },
+        {
+            "barCode": "5902180080337",
+            "name": "Sonko Галети рисові з насінням соняшника,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "10.04.2021",
+            "BBPercent": "92",
+            "quantity": "1452"
+        },
+        {
+            "barCode": "5902180200506",
+            "name": "Sonko Хлібці 7 злаків хрусткі,170г/10шт",
+            "validPeriod": "12",
+            "BBDate": "26.08.2020",
+            "BBPercent": "30",
+            "quantity": "274"
+        },
+        {
+            "barCode": "5902180200506",
+            "name": "Sonko Хлібці 7 злаків хрусткі,170г/10шт",
+            "validPeriod": "12",
+            "BBDate": "09.01.2021",
+            "BBPercent": "67",
+            "quantity": "1076"
+        },
+        {
+            "barCode": "5902180200506",
+            "name": "Sonko Хлібці 7 злаків хрусткі,170г/10шт",
+            "validPeriod": "12",
+            "BBDate": "03.04.2021",
+            "BBPercent": "90",
+            "quantity": "1320"
+        },
+        {
+            "barCode": "5902180202333",
+            "name": "Sonko Галети рисові з насінням гарбуза,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "15.04.2020",
+            "BBPercent": "-6",
+            "quantity": "5"
+        },
+        {
+            "barCode": "5902180202333",
+            "name": "Sonko Галети рисові з насінням гарбуза,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "09.04.2021",
+            "BBPercent": "92",
+            "quantity": "1375"
+        },
+        {
+            "barCode": "5902180210505",
+            "name": "Sonko Хлібці житні хрусткі, 170г/10шт",
+            "validPeriod": "12",
+            "BBDate": "14.02.2020",
+            "BBPercent": "-23",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5902180210505",
+            "name": "Sonko Хлібці житні хрусткі, 170г/10шт",
+            "validPeriod": "12",
+            "BBDate": "20.02.2021",
+            "BBPercent": "79",
+            "quantity": "859"
+        },
+        {
+            "barCode": "5902180210505",
+            "name": "Sonko Хлібці житні хрусткі, 170г/10шт",
+            "validPeriod": "12",
+            "BBDate": "07.04.2021",
+            "BBPercent": "91",
+            "quantity": "1320"
+        },
+        {
+            "barCode": "5902180290330",
+            "name": "Sonko Галети 7 злаків з диким рисом,130г/16шт",
+            "validPeriod": "12",
+            "BBDate": "30.03.2021",
+            "BBPercent": "89",
+            "quantity": "3848"
+        },
+        {
+            "barCode": "5906425140015",
+            "name": "ЗАКРЫТО Develey Соус Часниковий с/п, 200 г/6шт",
+            "validPeriod": "20",
+            "BBDate": "18.07.2019",
+            "BBPercent": "-49",
+            "quantity": "7"
+        },
+        {
+            "barCode": "5906425140015",
+            "name": "ЗАКРЫТО Develey Соус Часниковий с/п, 200 г/6шт",
+            "validPeriod": "20",
+            "BBDate": "17.09.2019",
+            "BBPercent": "-39",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5906425140015",
+            "name": "ЗАКРЫТО Develey Соус Часниковий с/п, 200 г/6шт",
+            "validPeriod": "20",
+            "BBDate": "23.12.2020",
+            "BBPercent": "37",
+            "quantity": "598"
+        },
+        {
+            "barCode": "5906425140015",
+            "name": "ЗАКРЫТО Develey Соус Часниковий с/п, 200 г/6шт",
+            "validPeriod": "20",
+            "BBDate": "23.12.2020",
+            "BBPercent": "37",
+            "quantity": "48"
+        },
+        {
+            "barCode": "5906425140022",
+            "name": "ЗАКРЫТО Develey Соус Чилі с/п, 215 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "28.03.2019",
+            "BBPercent": "-75",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5906425140022",
+            "name": "ЗАКРЫТО Develey Соус Чилі с/п, 215 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "29.09.2019",
+            "BBPercent": "-41",
+            "quantity": "5"
+        },
+        {
+            "barCode": "5906425140022",
+            "name": "ЗАКРЫТО Develey Соус Чилі с/п, 215 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "02.03.2020",
+            "BBPercent": "-12",
+            "quantity": "12"
+        },
+        {
+            "barCode": "5906425140022",
+            "name": "ЗАКРЫТО Develey Соус Чилі с/п, 215 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "22.02.2021",
+            "BBPercent": "53",
+            "quantity": "376"
+        },
+        {
+            "barCode": "5906425140039",
+            "name": "ЗАКРЫТО Develey Соус Сальса Мексикана с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "29.03.2019",
+            "BBPercent": "-74",
+            "quantity": "9"
+        },
+        {
+            "barCode": "5906425140039",
+            "name": "ЗАКРЫТО Develey Соус Сальса Мексикана с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "07.10.2019",
+            "BBPercent": "-39",
+            "quantity": "5"
+        },
+        {
+            "barCode": "5906425140039",
+            "name": "ЗАКРЫТО Develey Соус Сальса Мексикана с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "29.11.2019",
+            "BBPercent": "-29",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5906425140039",
+            "name": "ЗАКРЫТО Develey Соус Сальса Мексикана с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "06.03.2021",
+            "BBPercent": "55",
+            "quantity": "194"
+        },
+        {
+            "barCode": "5906425140138",
+            "name": "ЗАКРЫТО Develey Соус Грецький Тцацики с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "16.07.2019",
+            "BBPercent": "-54",
+            "quantity": "2"
+        },
+        {
+            "barCode": "5906425140138",
+            "name": "ЗАКРЫТО Develey Соус Грецький Тцацики с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "06.10.2019",
+            "BBPercent": "-39",
+            "quantity": "3"
+        },
+        {
+            "barCode": "5906425140138",
+            "name": "ЗАКРЫТО Develey Соус Грецький Тцацики с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "27.06.2020",
+            "BBPercent": "9",
+            "quantity": "9"
+        },
+        {
+            "barCode": "5906425140138",
+            "name": "ЗАКРЫТО Develey Соус Грецький Тцацики с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "09.07.2020",
+            "BBPercent": "11",
+            "quantity": "10"
+        },
+        {
+            "barCode": "5906425140138",
+            "name": "ЗАКРЫТО Develey Соус Грецький Тцацики с/п, 200 г/6шт",
+            "validPeriod": "18",
+            "BBDate": "31.12.2020",
+            "BBPercent": "43",
+            "quantity": "175"
+        },
+        {
+            "barCode": "5906425140947",
+            "name": "Develey Соус Часниковий п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "07.10.2019",
+            "BBPercent": "-59",
+            "quantity": "1"
+        },
+        {
+            "barCode": "5906425140947",
+            "name": "Develey Соус Часниковий п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "09.04.2021",
+            "BBPercent": "92",
+            "quantity": "1512"
+        },
+        {
+            "barCode": "5906425140978",
+            "name": "Develey Соус Гамбургер п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "12.04.2019",
+            "BBPercent": "-108",
+            "quantity": "2"
+        },
+        {
+            "barCode": "5906425140978",
+            "name": "Develey Соус Гамбургер п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "09.10.2019",
+            "BBPercent": "-58",
+            "quantity": "5"
+        },
+        {
+            "barCode": "5906425140978",
+            "name": "Develey Соус Гамбургер п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "14.10.2020",
+            "BBPercent": "43",
+            "quantity": "228"
+        },
+        {
+            "barCode": "5906425140978",
+            "name": "Develey Соус Гамбургер п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "23.04.2021",
+            "BBPercent": "96",
+            "quantity": "2339"
+        },
+        {
+            "barCode": "5906425140978",
+            "name": "Develey Соус Гамбургер п/п, 410 г/9шт",
+            "validPeriod": "12",
+            "BBDate": "27.04.2021",
+            "BBPercent": "97",
+            "quantity": "383"
+        },
+        {
+            "barCode": "678",
+            "name": "Глечик для зберіг.ол.олії",
+            "quantity": "42"
+        },
+        {
+            "barCode": "8001868000197",
+            "name": "Altomar тунець в оливковій олії ж/б 160г/12шт",
+            "validPeriod": "60",
+            "BBDate": "13.12.2023",
+            "BBPercent": "72",
+            "quantity": "1532"
+        },
+        {
+            "barCode": "8001868000227",
+            "name": "Maremi тунець в оливковій олії ж/б 160г/12шт",
+            "validPeriod": "60",
+            "BBDate": "25.05.2024",
+            "BBPercent": "81",
+            "quantity": "4945"
+        },
+        {
+            "barCode": "8001868000241",
+            "name": "Maremi тунець у власному соку ж/б 160г/12шт",
+            "validPeriod": "36",
+            "BBDate": "11.07.2022",
+            "BBPercent": "72",
+            "quantity": "3303"
+        },
+        {
+            "barCode": "8001868001408",
+            "name": "Maremi тунець в оливковій олії ж/б 80г*3/8шт",
+            "validPeriod": "60",
+            "BBDate": "12.12.2023",
+            "BBPercent": "72",
+            "quantity": "272"
+        },
+        {
+            "barCode": "8001868005673",
+            "name": "Altomar тунець в оливковій олії ж/б 80г*3/8шт",
+            "validPeriod": "60",
+            "BBDate": "02.11.2023",
+            "BBPercent": "70",
+            "quantity": "955"
+        },
+        {
+            "barCode": "8001868010332",
+            "name": "Maremi тунець в оливковій олії пауч 1кг/12шт",
+            "validPeriod": "36",
+            "BBDate": "14.02.2022",
+            "BBPercent": "59",
+            "quantity": "322"
+        },
+        {
+            "barCode": "8056364110383",
+            "name": "Altomar тунець в оливковій олії Extra Virgin Bio ж/б 160г/12шт",
+            "validPeriod": "60",
+            "BBDate": "06.12.2023",
+            "BBPercent": "72",
+            "quantity": "1436"
+        },
+        {
+            "barCode": "8056364119959",
+            "name": "Maremi тунець у власному соку пауч 1кг/12шт",
+            "validPeriod": "36",
+            "BBDate": "30.10.2020",
+            "BBPercent": "16",
+            "quantity": "20"
+        },
+        {
+            "barCode": "8410066120017",
+            "name": "Heinz соус салатний Цезар п/п 220 мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "29.10.2020",
+            "BBPercent": "47",
+            "quantity": "834"
+        },
+        {
+            "barCode": "8410066120017",
+            "name": "Heinz соус салатний Цезар п/п 220 мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "22.03.2021",
+            "BBPercent": "87",
+            "quantity": "2392"
+        },
+        {
+            "barCode": "8410148505930",
+            "name": "ЗАКРЫТО Borges напій (волоський горіх) к/у 1045г(1л)/6шт",
+            "validPeriod": "15",
+            "BBDate": "06.10.2019",
+            "BBPercent": "-47",
+            "quantity": "128"
+        },
+        {
+            "barCode": "8410179009858",
+            "name": "Borges масло олив. Ex.Virg.Robust 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "23.08.2021",
+            "BBPercent": "65",
+            "quantity": "124"
+        },
+        {
+            "barCode": "8410179009858",
+            "name": "Borges масло олив. Ex.Virg.Robust 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "11.03.2022",
+            "BBPercent": "92",
+            "quantity": "2124"
+        },
+        {
+            "barCode": "8410179100036",
+            "name": "Borges масло олив. Ex.Virg.с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "04.03.2022",
+            "BBPercent": "91",
+            "quantity": "2284"
+        },
+        {
+            "barCode": "8410179100043",
+            "name": "Borges масло олив. Ex.Virg.с/б 0,75л/6шт",
+            "validPeriod": "24",
+            "BBDate": "29.01.2022",
+            "BBPercent": "86",
+            "quantity": "149"
+        },
+        {
+            "barCode": "8410179100043",
+            "name": "Borges масло олив. Ex.Virg.с/б 0,75л/6шт",
+            "validPeriod": "24",
+            "BBDate": "29.01.2022",
+            "BBPercent": "86",
+            "quantity": "98"
+        },
+        {
+            "barCode": "8410179100043",
+            "name": "Borges масло олив. Ex.Virg.с/б 0,75л/6шт",
+            "validPeriod": "24",
+            "BBDate": "09.03.2022",
+            "BBPercent": "92",
+            "quantity": "1560"
+        },
+        {
+            "barCode": "8410179100050",
+            "name": "Borges масло олив. Ex.Virg.с/б 0,25л/12шт",
+            "validPeriod": "24",
+            "BBDate": "27.02.2020",
+            "BBPercent": "-10",
+            "quantity": "1"
+        },
+        {
+            "barCode": "8410179100050",
+            "name": "Borges масло олив. Ex.Virg.с/б 0,25л/12шт",
+            "validPeriod": "24",
+            "BBDate": "13.03.2022",
+            "BBPercent": "92",
+            "quantity": "5297"
+        },
+        {
+            "barCode": "8410179100708",
+            "name": "Borges масло олив. Ex.Virg.Organic EcoNatura с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "03.06.2021",
+            "BBPercent": "53",
+            "quantity": "618"
+        },
+        {
+            "barCode": "8410179100708",
+            "name": "Borges масло олив. Ex.Virg.Organic EcoNatura с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "03.06.2021",
+            "BBPercent": "53",
+            "quantity": "325"
+        },
+        {
+            "barCode": "8410179200828",
+            "name": "Borges масло олив.Pure Olive Oil Classic с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "17.12.2021",
+            "BBPercent": "80",
+            "quantity": "780"
+        },
+        {
+            "barCode": "8410179300825",
+            "name": "Borges масло олив.Pure Olive Oil. Extra Light с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "11.03.2022",
+            "BBPercent": "92",
+            "quantity": "1124"
+        },
+        {
+            "barCode": "8410179306148",
+            "name": "Borges уксус бальзамический с провинции Модена.с/б 0,25л/12шт",
+            "validPeriod": "60",
+            "BBDate": "21.04.2020",
+            "BBPercent": "-1",
+            "quantity": "10"
+        },
+        {
+            "barCode": "8410179306148",
+            "name": "Borges уксус бальзамический с провинции Модена.с/б 0,25л/12шт",
+            "validPeriod": "60",
+            "BBDate": "14.12.2020",
+            "BBPercent": "12",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8410179306148",
+            "name": "Borges уксус бальзамический с провинции Модена.с/б 0,25л/12шт",
+            "validPeriod": "60",
+            "BBDate": "27.01.2025",
+            "BBPercent": "94",
+            "quantity": "1393"
+        },
+        {
+            "barCode": "8410179306148",
+            "name": "Borges уксус бальзамический с провинции Модена.с/б 0,25л/12шт",
+            "validPeriod": "60",
+            "BBDate": "11.03.2025",
+            "BBPercent": "97",
+            "quantity": "1872"
+        },
+        {
+            "barCode": "8410179308142",
+            "name": "Borges уксус яблочный с/б 0,25л/12шт",
+            "validPeriod": "60",
+            "BBDate": "29.03.2021",
+            "BBPercent": "18",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8410179308142",
+            "name": "Borges уксус яблочный с/б 0,25л/12шт",
+            "validPeriod": "60",
+            "BBDate": "02.03.2025",
+            "BBPercent": "96",
+            "quantity": "1339"
+        },
+        {
+            "barCode": "8410179900254",
+            "name": "Borges масло из виноградной косточки.с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "31.01.2022",
+            "BBPercent": "87",
+            "quantity": "306"
+        },
+        {
+            "barCode": "8410179900254",
+            "name": "Borges масло из виноградной косточки.с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "12.03.2022",
+            "BBPercent": "92",
+            "quantity": "2160"
+        },
+        {
+            "barCode": "8410721010127",
+            "name": "Dani Молюски Бейбі у власному сокуі ж/б 111г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2022",
+            "BBPercent": "64",
+            "quantity": "20"
+        },
+        {
+            "barCode": "8410721010127",
+            "name": "Dani Молюски Бейбі у власному сокуі ж/б 111г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2022",
+            "BBPercent": "64",
+            "quantity": "5"
+        },
+        {
+            "barCode": "8410721010127",
+            "name": "Dani Молюски Бейбі у власному сокуі ж/б 111г/24шт",
+            "validPeriod": "48",
+            "BBDate": "15.12.2023",
+            "BBPercent": "90",
+            "quantity": "458"
+        },
+        {
+            "barCode": "8410721092956",
+            "name": "Dani Шматочки гігантського кальмара в гострому соусі ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2023",
+            "BBPercent": "89",
+            "quantity": "308"
+        },
+        {
+            "barCode": "8410721092956",
+            "name": "Dani Шматочки гігантського кальмара в гострому соусі ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2023",
+            "BBPercent": "89",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8410721092956",
+            "name": "Dani Шматочки гігантського кальмара в гострому соусі ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "11.12.2023",
+            "BBPercent": "90",
+            "quantity": "240"
+        },
+        {
+            "barCode": "8410721094042",
+            "name": "Dani Шматочки гігантського кальмара в соняшниковій олії ж/б 106г/24шт",
+            "validPeriod": "72",
+            "BBDate": "01.12.2025",
+            "BBPercent": "93",
+            "quantity": "12"
+        },
+        {
+            "barCode": "8410721097807",
+            "name": "Dani Мідії в іспанському соусі (13-18шт) ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2023",
+            "BBPercent": "89",
+            "quantity": "364"
+        },
+        {
+            "barCode": "8410721097807",
+            "name": "Dani Мідії в іспанському соусі (13-18шт) ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2023",
+            "BBPercent": "89",
+            "quantity": "1"
+        },
+        {
+            "barCode": "8410721110285",
+            "name": "ЗАКРЫТО Dani Мідіі у власному соку ж/б,184г/12шт",
+            "validPeriod": "48",
+            "BBDate": "15.12.2020",
+            "BBPercent": "15",
+            "quantity": "17"
+        },
+        {
+            "barCode": "8410721110285",
+            "name": "ЗАКРЫТО Dani Мідіі у власному соку ж/б,184г/12шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2021",
+            "BBPercent": "39",
+            "quantity": "5"
+        },
+        {
+            "barCode": "8410721110285",
+            "name": "ЗАКРЫТО Dani Мідіі у власному соку ж/б,184г/12шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2021",
+            "BBPercent": "39",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8410721110285",
+            "name": "ЗАКРЫТО Dani Мідіі у власному соку ж/б,184г/12шт",
+            "validPeriod": "48",
+            "BBDate": "06.12.2021",
+            "BBPercent": "39",
+            "quantity": "1"
+        },
+        {
+            "barCode": "8410721110285",
+            "name": "ЗАКРЫТО Dani Мідіі у власному соку ж/б,184г/12шт",
+            "validPeriod": "48",
+            "BBDate": "06.12.2021",
+            "BBPercent": "39",
+            "quantity": "5"
+        },
+        {
+            "barCode": "8410721110285",
+            "name": "ЗАКРЫТО Dani Мідіі у власному соку ж/б,184г/12шт",
+            "validPeriod": "48",
+            "BBDate": "23.12.2021",
+            "BBPercent": "41",
+            "quantity": "1"
+        },
+        {
+            "barCode": "8410721110438",
+            "name": "Dani Мідії в гострому іспанському соусі (13-18шт) ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2021",
+            "BBPercent": "39",
+            "quantity": "7"
+        },
+        {
+            "barCode": "8410721110438",
+            "name": "Dani Мідії в гострому іспанському соусі (13-18шт) ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "01.12.2023",
+            "BBPercent": "89",
+            "quantity": "10"
+        },
+        {
+            "barCode": "8410721110438",
+            "name": "Dani Мідії в гострому іспанському соусі (13-18шт) ж/б 106г/24шт",
+            "validPeriod": "48",
+            "BBDate": "28.12.2023",
+            "BBPercent": "91",
+            "quantity": "597"
+        },
+        {
+            "barCode": "8420701102018",
+            "name": "RS Масло олив. Ex.Virg.с/б 1л/12шт",
+            "validPeriod": "24",
+            "BBDate": "02.03.2022",
+            "BBPercent": "91",
+            "quantity": "2"
+        },
+        {
+            "barCode": "8420701102025",
+            "name": "RS Масло олив. Ex.Virg.с/б 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "12.03.2022",
+            "BBPercent": "92",
+            "quantity": "73"
+        },
+        {
+            "barCode": "8420701102124",
+            "name": "RS Масло олив. Ex.Virg.с/б 0,75л/12шт",
+            "validPeriod": "24",
+            "quantity": "1"
+        },
+        {
+            "barCode": "8420701102124",
+            "name": "RS Масло олив. Ex.Virg.с/б 0,75л/12шт",
+            "validPeriod": "24",
+            "BBDate": "02.03.2022",
+            "BBPercent": "91",
+            "quantity": "247"
+        },
+        {
+            "barCode": "8420701102131",
+            "name": "RS Масло олив. Ex.Virg.с/б 0,25л/24шт",
+            "validPeriod": "24",
+            "BBDate": "05.07.2021",
+            "BBPercent": "58",
+            "quantity": "860"
+        },
+        {
+            "barCode": "8420701102131",
+            "name": "RS Масло олив. Ex.Virg.с/б 0,25л/24шт",
+            "validPeriod": "24",
+            "BBDate": "10.03.2022",
+            "BBPercent": "92",
+            "quantity": "3090"
+        },
+        {
+            "barCode": "8420701102445",
+            "name": "RS Масло олив. Ex.Virg.с/кув. 0,5л/12шт",
+            "validPeriod": "24",
+            "BBDate": "12.03.2022",
+            "BBPercent": "92",
+            "quantity": "1480"
+        },
+        {
+            "barCode": "8420701102667",
+            "name": "RS Масло олив. Ex.Virg.с/кув. 0,25л/24шт",
+            "validPeriod": "24",
+            "BBDate": "18.07.2020",
+            "BBPercent": "10",
+            "quantity": "2"
+        },
+        {
+            "barCode": "8420701102667",
+            "name": "RS Масло олив. Ex.Virg.с/кув. 0,25л/24шт",
+            "validPeriod": "24",
+            "BBDate": "17.03.2022",
+            "BBPercent": "93",
+            "quantity": "3979"
+        },
+        {
+            "barCode": "8420701109024",
+            "name": "RS Масло из виноград. косточки с/б 0,5л/12 шт",
+            "validPeriod": "24",
+            "BBDate": "03.07.2021",
+            "BBPercent": "58",
+            "quantity": "700"
+        },
+        {
+            "barCode": "8420701109024",
+            "name": "RS Масло из виноград. косточки с/б 0,5л/12 шт",
+            "validPeriod": "24",
+            "BBDate": "03.07.2021",
+            "BBPercent": "58",
+            "quantity": "17"
+        },
+        {
+            "barCode": "8430689093031",
+            "name": "Zeytuna олія оливкова Помас ж/к 5л/4шт",
+            "validPeriod": "24",
+            "BBDate": "27.11.2021",
+            "BBPercent": "78",
+            "quantity": "137"
+        },
+        {
+            "barCode": "8715700016023",
+            "name": "Heinz кетчуп томатний п/відро 10 л/1шт",
+            "validPeriod": "6",
+            "BBDate": "08.08.2020",
+            "BBPercent": "50",
+            "quantity": "28"
+        },
+        {
+            "barCode": "8715700017006",
+            "name": "ЗАКРЫТО Heinz кетчуп томатний TD 500 мл/10шт",
+            "validPeriod": "15",
+            "BBDate": "01.01.2021",
+            "BBPercent": "52",
+            "quantity": "11"
+        },
+        {
+            "barCode": "8715700036106",
+            "name": "Heinz соус барбекю п/відро 10 л",
+            "validPeriod": "9",
+            "BBDate": "13.01.2020",
+            "BBPercent": "-42",
+            "quantity": "47"
+        },
+        {
+            "barCode": "8715700036212",
+            "name": "Heinz майонез 70% п/відро 5 л/1 шт",
+            "validPeriod": "8",
+            "BBDate": "28.04.2019",
+            "BBPercent": "-155",
+            "quantity": "2"
+        },
+        {
+            "barCode": "8715700036212",
+            "name": "Heinz майонез 70% п/відро 5 л/1 шт",
+            "validPeriod": "8",
+            "BBDate": "28.12.2019",
+            "BBPercent": "-54",
+            "quantity": "11"
+        },
+        {
+            "barCode": "8715700115986",
+            "name": "Heinz соус часниковий п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "17.03.2021",
+            "BBPercent": "86",
+            "quantity": "401"
+        },
+        {
+            "barCode": "8715700115986",
+            "name": "Heinz соус часниковий п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "06.04.2021",
+            "BBPercent": "91",
+            "quantity": "2016"
+        },
+        {
+            "barCode": "8715700415574",
+            "name": "Heinz соус барбекю п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "06.06.2019",
+            "BBPercent": "-74",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8715700415574",
+            "name": "Heinz соус барбекю п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "16.01.2020",
+            "BBPercent": "-25",
+            "quantity": "6"
+        },
+        {
+            "barCode": "8715700415574",
+            "name": "Heinz соус барбекю п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "07.02.2020",
+            "BBPercent": "-20",
+            "quantity": "8"
+        },
+        {
+            "barCode": "8715700415574",
+            "name": "Heinz соус барбекю п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "13.06.2021",
+            "BBPercent": "88",
+            "quantity": "448"
+        },
+        {
+            "barCode": "8715700415598",
+            "name": "Heinz соус гострий чилі п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "05.12.2019",
+            "BBPercent": "-34",
+            "quantity": "33"
+        },
+        {
+            "barCode": "8715700415598",
+            "name": "Heinz соус гострий чилі п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "04.04.2021",
+            "BBPercent": "72",
+            "quantity": "171"
+        },
+        {
+            "barCode": "8715700415598",
+            "name": "Heinz соус гострий чилі п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "26.06.2021",
+            "BBPercent": "90",
+            "quantity": "2016"
+        },
+        {
+            "barCode": "8715700419695",
+            "name": "Heinz соус барбекю солодкий п/п 400 мл/10шт",
+            "validPeriod": "18",
+            "BBDate": "01.08.2021",
+            "BBPercent": "82",
+            "quantity": "738"
+        },
+        {
+            "barCode": "8715700420363",
+            "name": "Heinz кетчуп томатний гострий п/п 500 мл/12шт",
+            "validPeriod": "15",
+            "BBDate": "01.12.2020",
+            "BBPercent": "45",
+            "quantity": "22"
+        },
+        {
+            "barCode": "8715700420363",
+            "name": "Heinz кетчуп томатний гострий п/п 500 мл/12шт",
+            "validPeriod": "15",
+            "BBDate": "01.01.2021",
+            "BBPercent": "52",
+            "quantity": "137"
+        },
+        {
+            "barCode": "8715700420363",
+            "name": "Heinz кетчуп томатний гострий п/п 500 мл/12шт",
+            "validPeriod": "15",
+            "BBDate": "01.07.2021",
+            "BBPercent": "92",
+            "quantity": "2057"
+        },
+        {
+            "barCode": "8715700420608",
+            "name": "Heinz кетчуп томатний сашет 10 мл/200 шт",
+            "validPeriod": "9",
+            "BBDate": "05.12.2019",
+            "BBPercent": "-57",
+            "quantity": "2830"
+        },
+        {
+            "barCode": "8715700420608",
+            "name": "Heinz кетчуп томатний сашет 10 мл/200 шт",
+            "validPeriod": "9",
+            "BBDate": "10.02.2020",
+            "BBPercent": "-32",
+            "quantity": "9200"
+        },
+        {
+            "barCode": "8715700421322",
+            "name": "ЗАКРЫТО Heinz соус барбекю чилі п/п 400 мл/10шт",
+            "validPeriod": "18",
+            "BBDate": "01.10.2020",
+            "BBPercent": "27",
+            "quantity": "350"
+        },
+        {
+            "barCode": "8715700421513",
+            "name": "Heinz кетчуп томатний п/п 875 мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "01.03.2020",
+            "BBPercent": "-15",
+            "quantity": "2"
+        },
+        {
+            "barCode": "8715700421513",
+            "name": "Heinz кетчуп томатний п/п 875 мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "01.05.2021",
+            "BBPercent": "79",
+            "quantity": "20657"
+        },
+        {
+            "barCode": "8715700421513",
+            "name": "Heinz кетчуп томатний п/п 875 мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "01.05.2021",
+            "BBPercent": "79",
+            "quantity": "2"
+        },
+        {
+            "barCode": "8715700421582",
+            "name": "Heinz кетчуп томатний п/п 500 мл/12шт",
+            "validPeriod": "15",
+            "BBDate": "01.06.2021",
+            "BBPercent": "85",
+            "quantity": "37931"
+        },
+        {
+            "barCode": "8715700421605",
+            "name": "ЗАКРЫТО Heinz (НОВУС)  кетчуп томатний п/п 220мл/10шт ",
+            "validPeriod": "15",
+            "BBDate": "01.04.2019",
+            "BBPercent": "-89",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8715700421834",
+            "name": "Heinz соус Американський бургер (гамбургер) п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "14.08.2019",
+            "BBPercent": "-74",
+            "quantity": "6"
+        },
+        {
+            "barCode": "8715700421834",
+            "name": "Heinz соус Американський бургер (гамбургер) п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "30.11.2019",
+            "BBPercent": "-44",
+            "quantity": "4"
+        },
+        {
+            "barCode": "8715700421834",
+            "name": "Heinz соус Американський бургер (гамбургер) п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "02.06.2020",
+            "BBPercent": "7",
+            "quantity": "9"
+        },
+        {
+            "barCode": "8715700421834",
+            "name": "Heinz соус Американський бургер (гамбургер) п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "11.12.2020",
+            "BBPercent": "59",
+            "quantity": "226"
+        },
+        {
+            "barCode": "8715700421834",
+            "name": "Heinz соус Американський бургер (гамбургер) п/п 220мл/8шт",
+            "validPeriod": "12",
+            "BBDate": "09.04.2021",
+            "BBPercent": "92",
+            "quantity": "1720"
+        },
+        {
+            "barCode": "8715700422480",
+            "name": "Heinz майонез 70% с/б 460г/8шт",
+            "validPeriod": "12",
+            "BBDate": "01.01.2021",
+            "BBPercent": "65",
+            "quantity": "1747"
+        },
+        {
+            "barCode": "8715700422503",
+            "name": "Heinz майонез легкий п/п 420г/10шт ",
+            "validPeriod": "12",
+            "BBDate": "24.07.2019",
+            "BBPercent": "-79",
+            "quantity": "89"
+        },
+        {
+            "barCode": "8715700422503",
+            "name": "Heinz майонез легкий п/п 420г/10шт ",
+            "validPeriod": "12",
+            "BBDate": "23.11.2019",
+            "BBPercent": "-46",
+            "quantity": "11"
+        },
+        {
+            "barCode": "8715700422503",
+            "name": "Heinz майонез легкий п/п 420г/10шт ",
+            "validPeriod": "12",
+            "BBDate": "04.02.2021",
+            "BBPercent": "74",
+            "quantity": "1899"
+        },
+        {
+            "barCode": "8715700422503",
+            "name": "Heinz майонез легкий п/п 420г/10шт ",
+            "validPeriod": "12",
+            "BBDate": "04.02.2021",
+            "BBPercent": "74",
+            "quantity": "1"
+        },
+        {
+            "barCode": "8715700422503",
+            "name": "Heinz майонез легкий п/п 420г/10шт ",
+            "validPeriod": "12",
+            "BBDate": "28.03.2021",
+            "BBPercent": "89",
+            "quantity": "1330"
+        },
+        {
+            "barCode": "8715700422510",
+            "name": "Heinz майонез 70% п/п 395г/10шт",
+            "validPeriod": "12",
+            "BBDate": "26.08.2019",
+            "BBPercent": "-70",
+            "quantity": "4"
+        },
+        {
+            "barCode": "8715700422510",
+            "name": "Heinz майонез 70% п/п 395г/10шт",
+            "validPeriod": "12",
+            "BBDate": "22.11.2019",
+            "BBPercent": "-46",
+            "quantity": "11"
+        },
+        {
+            "barCode": "8715700422510",
+            "name": "Heinz майонез 70% п/п 395г/10шт",
+            "validPeriod": "12",
+            "BBDate": "21.10.2020",
+            "BBPercent": "45",
+            "quantity": "1043"
+        },
+        {
+            "barCode": "8715700422510",
+            "name": "Heinz майонез 70% п/п 395г/10шт",
+            "validPeriod": "12",
+            "BBDate": "03.02.2021",
+            "BBPercent": "74",
+            "quantity": "2206"
+        },
+        {
+            "barCode": "8715700422510",
+            "name": "Heinz майонез 70% п/п 395г/10шт",
+            "validPeriod": "12",
+            "BBDate": "20.02.2021",
+            "BBPercent": "79",
+            "quantity": "2660"
+        },
+        {
+            "barCode": "8715700534527",
+            "name": "Heinz гірчиця SOM пет 2,5л/3шт ",
+            "validPeriod": "12",
+            "BBDate": "12.06.2019",
+            "BBPercent": "-91",
+            "quantity": "28"
+        },
+        {
+            "barCode": "8715700534527",
+            "name": "Heinz гірчиця SOM пет 2,5л/3шт ",
+            "validPeriod": "12",
+            "BBDate": "01.12.2020",
+            "BBPercent": "56",
+            "quantity": "54"
+        },
+        {
+            "barCode": "8715700535142",
+            "name": "Heinz майонез 70% SOM пет 5л/3 шт",
+            "validPeriod": "12",
+            "BBDate": "28.02.2019",
+            "BBPercent": "-119",
+            "quantity": "3"
+        },
+        {
+            "barCode": "8715700535142",
+            "name": "Heinz майонез 70% SOM пет 5л/3 шт",
+            "validPeriod": "12",
+            "BBDate": "19.06.2019",
+            "BBPercent": "-89",
+            "quantity": "57"
+        },
+        {
+            "barCode": "8715700535142",
+            "name": "Heinz майонез 70% SOM пет 5л/3 шт",
+            "validPeriod": "12",
+            "BBDate": "01.03.2020",
+            "BBPercent": "-19",
+            "quantity": "19"
+        },
+        {
+            "barCode": "87157116",
+            "name": "Heinz кетчуп томатний с/п 342 г/12шт",
+            "validPeriod": "24",
+            "BBDate": "01.10.2021",
+            "BBPercent": "70",
+            "quantity": "1"
+        },
+        {
+            "barCode": "87157116",
+            "name": "Heinz кетчуп томатний с/п 342 г/12шт",
+            "validPeriod": "24",
+            "BBDate": "01.03.2022",
+            "BBPercent": "91",
+            "quantity": "6772"
+        },
+        {
+            "barCode": "87157116",
+            "name": "Heinz кетчуп томатний с/п 342 г/12шт",
+            "validPeriod": "24",
+            "BBDate": "01.03.2022",
+            "BBPercent": "91",
+            "quantity": "16"
+        },
+        {
+            "barCode": "87157154",
+            "name": "Heinz соус барбекю класичний п/п 400 мл/10шт",
+            "validPeriod": "18",
+            "BBDate": "01.09.2021",
+            "BBPercent": "88",
+            "quantity": "664"
+        },
+        {
+            "barCode": "87157291",
+            "name": "Heinz соус солодкий чилі п/п 220мл/8шт",
+            "validPeriod": "15",
+            "BBDate": "01.06.2021",
+            "BBPercent": "85",
+            "quantity": "1957"
+        },
+        {
+            "barCode": "87157581",
+            "name": "ЗАКРЫТО Heinz соус часниковий с/п 250 мл/8шт",
+            "validPeriod": "24",
+            "BBDate": "01.12.2019",
+            "BBPercent": "-22",
+            "quantity": "1"
+        },
+        {
+            "barCode": "87157857",
+            "name": "Heinz майонез 70% п/п 215г/10шт",
+            "validPeriod": "12",
+            "BBDate": "04.03.2021",
+            "BBPercent": "82",
+            "quantity": "2156"
+        },
+        {
+            "barCode": "87157857",
+            "name": "Heinz майонез 70% п/п 215г/10шт",
+            "validPeriod": "12",
+            "BBDate": "04.03.2021",
+            "BBPercent": "82",
+            "quantity": "100"
+        },
+        {
+            "barCode": "87157918",
+            "name": "ЗАКРЫТО Heinz соус три перці (делікатесний) с/п 250 мл/8шт",
+            "validPeriod": "24",
+            "BBDate": "01.10.2019",
+            "BBPercent": "-30",
+            "quantity": "20"
+        }
+    ]
