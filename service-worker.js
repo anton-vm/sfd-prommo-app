@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sfd-prommo-app/precache-manifest.0ec33b36749c1ea0f51216ffd1fdbb42.js"
+  "/sfd-prommo-app/precache-manifest.aac2d450cb249ac3b500728dec8f0220.js"
 );
 
 self.addEventListener('message', (event) => {
